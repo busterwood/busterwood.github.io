@@ -1,7 +1,5 @@
 ---
-layout: page
 title: "Consistency"
-permalink: /consistency/
 ---
 # Consistency
 

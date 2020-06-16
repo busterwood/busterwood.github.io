@@ -1,8 +1,7 @@
 ---
-layout: page
 title: "Comments"
-permalink: /comments/
 ---
+
 # Comments 
 
 Comments on the interface complete the abstraction and should express what the programming language does not allow, e.g. why. *If the users of a module have to read the code then there is no abstraction*!  If you want to use abstractions to hide complexity then the code needs comments.
