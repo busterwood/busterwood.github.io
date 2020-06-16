@@ -1,7 +1,8 @@
+---
 layout: page
 title: "Consistency"
 permalink: /consistency/
-
+---
 # Consistency
 
 Consistency means in the reader can learn a pattern once and then perceive how another part of the system works.  Consistency creates leverage to reduce cognitive load.  If a system is not consistent then developers will need to learn more, which costs more and slows things down.
