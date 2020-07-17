@@ -1,6 +1,7 @@
 ---
 title: "Natural State"
 ---
+# Natural State
 
 The natural state of a large software system is to be coded with *different* patterns and ideas.
 
