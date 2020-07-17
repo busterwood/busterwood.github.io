@@ -1,6 +1,7 @@
 ---
 title: "Simple is not easy"
 ---
+# Simple is not easy
 
 Rich Hickey has a great talk call "[simple is not easy](https://www.infoq.com/presentations/Simple-Made-Easy)" ([transcript](https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/SimpleMadeEasy.md)).
 

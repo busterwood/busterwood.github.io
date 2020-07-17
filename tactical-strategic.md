@@ -1,7 +1,7 @@
 ---
 title: "Strategic verses tactical"
 ---
-
+# Strategic verses tactical
 
 ### Tactical programming
 

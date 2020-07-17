@@ -1,6 +1,7 @@
 ---
 title: "Problem Solving"
 ---
+# Problem Solving
 
 From the remarkable book [Are Your Lights On?](http://amzn.eu/1FL7tJI) By Donald C Gause and Gerald M Weinberg, 1982
 

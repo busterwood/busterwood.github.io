@@ -2,7 +2,9 @@
 title: "Layers"
 ---
 
-Software systems are composed in layers, with higher-level [[modules]] calling lower-level [[modules]].  In a well-designed system, different layers use different abstractions.  If modules in adjacent layers use the same abstraction then this is a *smell* that suggests a problem with class decomposition.
+# Layers
+
+Software systems are composed in layers, with higher-level [modules](modules) calling lower-level [modules](modules).  In a well-designed system, different layers use different abstractions.  If modules in adjacent layers use the same abstraction then this is a *smell* that suggests a problem with class decomposition.
 
 ### Pass-through methods
 

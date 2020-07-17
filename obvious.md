@@ -1,6 +1,7 @@
 ---
 title: "Obvious"
 ---
+# Obvious
 
 Obscurity is one of the main causes of complexity, so we should try to make the code *obvious* to the reader.  It's easy to think your own code is obvious, so make sure your code is *reviewed* by other people.
 
