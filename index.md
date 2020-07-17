@@ -1,2 +1,2 @@
-* TOC
-{:toc}
+* Design
+{:design}
