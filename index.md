@@ -30,7 +30,6 @@ title: "Contents"
 * [Measuring Software Delivery Performance](Measuring-Software-Delivery-Performance)
 * [Microservice architecture](Microservice-architecture)
 * [Modern CPU design](Modern-CPU-design)
-* [Performance reviews](Performance-reviews)
 * [Process abstraction](Process-abstraction)
 * [Programming History](Programming-History)
 * [Software developer rules](Software-developer-rules)
