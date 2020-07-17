@@ -16,4 +16,4 @@ The classic binary search finds an item in a sorted array.  The recursive algori
 
 ## Two-way comparison
 
-Most programming languages do not support three way comparison, so a more efficient way it to use two-way comparison, as shown by [Arne Andersson](http://user.it.uu.se/~arnea/ps/searchproc.pdf), who also invented the [[AA-Tree|Data Structures]]
+Most programming languages do not support three way comparison, so a more efficient way it to use two-way comparison, as shown by [Arne Andersson](http://user.it.uu.se/~arnea/ps/searchproc.pdf), who also invented the [AA-Tree](Data-Structures).
