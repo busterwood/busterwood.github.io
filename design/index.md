@@ -10,6 +10,7 @@ title: "design"
 * [CSP](CSP)
 * [design](design)
 * [errors](errors)
+* [Inheritance Rules](Inheritance-Rules)
 * [layers](layers)
 * [modules](modules)
 * [natural state](natural-state)
