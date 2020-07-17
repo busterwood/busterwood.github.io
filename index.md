@@ -10,10 +10,10 @@ title: "Contents"
 * [estimates](estimates/index)
 * [management](management/index)
 * [messaging](messaging/index)
-* [testing](testing/index)
 
 # Contents
 * [Architecture](Architecture)
+* [Automated Testing](Automated-Testing)
 * [Books](Books)
 * [Caching](Caching)
 * [Checklists](Checklists)
@@ -30,7 +30,6 @@ title: "Contents"
 * [Measuring Software Delivery Performance](Measuring-Software-Delivery-Performance)
 * [Microservice architecture](Microservice-architecture)
 * [Modern CPU design](Modern-CPU-design)
-* [Monitoring](Monitoring)
 * [Performance reviews](Performance-reviews)
 * [Process abstraction](Process-abstraction)
 * [Programming History](Programming-History)
