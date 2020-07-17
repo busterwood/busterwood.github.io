@@ -7,7 +7,6 @@ title: "dotnet"
 * [F Sharp](F-Sharp)
 * [IIS](IIS)
 * [Messaging patterns for MSMQ](Messaging-patterns-for-MSMQ)
-* [MSMQ](MSMQ)
 * [NuGet](NuGet)
 * [Visual Studio](Visual-Studio)
 * [WinDbg](WinDbg)
