@@ -1,9 +1,8 @@
 ---
-title: "Management"
+title: "management"
 ---
-# Management
-
-* [General](general) management
-* [Decision making](getting-stuff-done)
-* [Feedback](feedback)
-* [Performance Reviews](performance-reviews)
+# management
+* [feedback](feedback)
+* [general](general)
+* [getting stuff done](getting-stuff-done)
+* [performance reviews](performance-reviews)
