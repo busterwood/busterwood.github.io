@@ -7,8 +7,8 @@ title: "Essential and accidental complexity"
 Complexity makes it difficult and risky to modify an existing code base.
 
 Also, see:
- * [[simple is not easy]] 
- * [[essential and accidental complexity]]
+ * [Simple is not easy](simple-easy)
+ * [essential and accidental complexity](complexity)
 
 ### Symptoms of complexity
 
