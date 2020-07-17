@@ -1,2 +1,13 @@
-* Design
-{:design}
+# Design
+* [comments]
+* [complexity]
+* [consistency]
+* [design]
+* [errors]
+* [layers]
+* [modules]
+* [natural-state]
+* [obvious]
+* [problem-solving]
+* [simple-easy]
+* [tactical-strategic]
