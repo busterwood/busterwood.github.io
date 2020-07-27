@@ -23,6 +23,7 @@ title: "Contents"
 * [Excel](Excel)
 * [Git](Git)
 * [Go](Go)
+* [idea lanaguage](idea-lanaguage)
 * [Ideal Operating System](Ideal-Operating-System)
 * [Java](Java)
 * [JSON](JSON)
