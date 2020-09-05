@@ -20,6 +20,7 @@ title: "Contents"
 * [Complex Event Processing](Complex-Event-Processing)
 * [Data Structures](Data-Structures)
 * [Encoding Data](Encoding-Data)
+* [energy if then](energy-if-then)
 * [Excel](Excel)
 * [Git](Git)
 * [Go](Go)
